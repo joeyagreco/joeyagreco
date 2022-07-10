@@ -1,4 +1,4 @@
-Hi 👋 My name is Joey Greco
+Hello 👋 My name is Joey Greco
 ===========================
 
 Software Engineer
