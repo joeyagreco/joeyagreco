@@ -5,7 +5,6 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in the United States
-* 🖥️  See my portfolio at [joeygre.co](http://joeygre.co)
 * ✉️  You can contact me at [joeyagreco@gmail.com](mailto:joeyagreco@gmail.com)
 
 
