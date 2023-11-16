@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in the United States
 * ✉️  You can contact me at [joeyagreco@gmail.com](mailto:joeyagreco@gmail.com)
-* 📝   Check out my [blog](https://medium.com/@joeyagreco)
+* 📝  Check out my [blog!](https://medium.com/@joeyagreco)
 
 
 ### Socials
