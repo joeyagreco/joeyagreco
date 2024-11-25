@@ -1,4 +1,4 @@
-Hello 👋 I'm Joey
+Howdy 👋 I'm Joey
 ===========================
 
 Software Engineer
