@@ -4,7 +4,7 @@ Hello 👋 I'm Joey
 Software Engineer
 -----------------
 
-* 📝  Check out my [blog!](https://medium.com/@joeyagreco)
+* 📝  Check out my [blog!](https://joeyagreco.bearblog.dev/)
 * ✉️  You can contact me at [joeyagreco@gmail.com](mailto:joeyagreco@gmail.com)
 
 
